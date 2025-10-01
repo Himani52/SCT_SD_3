@@ -35,10 +35,10 @@ java SudokuSolverGUI
 🖼️ Screenshots
 🟡 Before Solving
 
-![Sudoku UI](Screenshots/screenshot1.png)
+![Sudoku UI](Screenshots/screenshot 1.png)
 
 🟢 After Solving
 
-![Sudoku UI](Screenshots/screenshot2.png)
+![Sudoku UI](Screenshots/screenshot 2.png)
 
 
