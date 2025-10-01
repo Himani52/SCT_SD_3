@@ -30,19 +30,15 @@ This project solves any valid Sudoku puzzle using **backtracking** and provides 
 ## 🚀 How to Run the Project
 
 ```bash
-1️⃣ javac SudokuSolverGUI.java
-2️⃣ java SudokuSolverGUI
-
----
-
-## 🖼️ Screenshots
-
+javac SudokuSolverGUI.java
+java SudokuSolverGUI
+🖼️ Screenshots
 🟡 Before Solving
 
-![Sudoku UI](Screenshots/Screenshot%201.png)
-
+![Sudoku UI](Screenshots/screenshot1.png)
 
 🟢 After Solving
 
-![Solved Sudoku](Screenshots/Screenshot%202.png)
+![Sudoku UI](Screenshots/screenshot2.png)
+
 
