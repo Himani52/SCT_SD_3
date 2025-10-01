@@ -9,6 +9,18 @@ This project solves any valid Sudoku puzzle using **backtracking** and provides 
 
 ---
 
+## 📖 About
+
+This Java Swing application allows users to solve Sudoku puzzles automatically.  
+It combines a **clean graphical interface** with a **powerful backtracking algorithm** to find solutions efficiently.
+
+💡 **Why use this?**  
+- Great for practicing Sudoku.  
+- Helps verify puzzle solutions.  
+- Fun project for learning GUI programming in Java.  
+
+---
+
 ## 🎯 Features at a Glance
 
 ✅ **9×9 Input Grid** – Type numbers directly  
@@ -19,6 +31,7 @@ This project solves any valid Sudoku puzzle using **backtracking** and provides 
 🧼 **Clear / Reset Button**  
 ⚠️ **Input Validation** + Error Alerts  
 💡 Beginner-friendly and easy to use  
+🎉 Fun and interactive interface  
 
 ---
 
@@ -26,11 +39,11 @@ This project solves any valid Sudoku puzzle using **backtracking** and provides 
 
 🟡 **Before Solving**  
 
-![Sudoku UI](Screenshots/Screenshot 1.png)
+![Sudoku UI](Screenshots/Screenshot%201.png)
 
 🟢 **After Solving**  
 
-![Solved Sudoku](Screenshots/Screenshot 2.png)
+![Solved Sudoku](Screenshots/Screenshot%202.png)
 
 ---
 
