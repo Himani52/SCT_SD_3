@@ -33,9 +33,9 @@ This project solves any valid Sudoku puzzle using **backtracking** and provides 
 1️⃣ javac SudokuSolverGUI.java
 2️⃣ java SudokuSolverGUI
 
+---
 
-
- 🖼️ Screenshots
+## 🖼️ Screenshots
 
 🟡 Before Solving
 
