@@ -26,11 +26,11 @@ This project solves any valid Sudoku puzzle using **backtracking** and provides 
 
 🟡 **Before Solving**  
 
-![Sudoku UI](Screenshots/Screenshot1.png)
+![Sudoku UI](Screenshots/Screenshot 1.png)
 
 🟢 **After Solving**  
 
-![Solved Sudoku](Screenshots/Screenshot2.png)
+![Solved Sudoku](Screenshots/Screenshot 2.png)
 
 ---
 
